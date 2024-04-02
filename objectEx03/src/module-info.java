@@ -1,0 +1,2 @@
+module objectEx03 {
+}
